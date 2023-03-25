@@ -15,7 +15,7 @@ When the page is loaded again , the stored data is retrived and rendered on page
 
 ## Installation
 
-Click on this link - https://nanthantk.github.io/WorkDayScheduler/Links 
+Click on this link - https://nanthantk.github.io/WorkDayScheduler/
 
 ## visuals
 ![Image for demonstration] (./demo.png)
